@@ -7,4 +7,12 @@
     <option name="FONT_SIZE" value="24" />
     <option name="FONT_FAMILY" value="Consolas" />
   </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Julia" value="true" />
+      </map>
+    </option>
+    <option name="SHOW_BREADCRUMBS" value="false" />
+  </component>
 </application>
